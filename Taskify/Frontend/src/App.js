@@ -57,27 +57,3 @@ function App() {
 }
 
 export default App;
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-~
-App.js [unix] (19:08 20/05/2025)                                       0,0-1 All
-"App.js" 0L, 0B
-
